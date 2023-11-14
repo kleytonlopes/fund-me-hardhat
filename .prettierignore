@@ -1,0 +1,10 @@
+cache
+.*
+node_modules
+package.json
+img
+artifacts
+README.md
+covarage.json
+
+
